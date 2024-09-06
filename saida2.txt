@@ -1,11 +1,11 @@
 Metodo Embaralhar e Preencher (Melhor de 5):
-Valor total: 335
-Peso total: 236
+Valor total: 314
+Peso total: 239
 Tempo de execucao: 500 ns
 
 Metodo Selecao Aleatoria (Melhor de 5):
-Valor total: 348
-Peso total: 238
+Valor total: 277
+Peso total: 236
 Tempo de execucao: 8800 ns
 
 Metodo Substituicao de Objeto:
@@ -14,7 +14,7 @@ Peso total: 185
 Tempo de execucao: 13800 ns
 
 Metodo Hill Climbing:
-Valor total: 300
-Peso total: 237
-Tempo de execucao: 1000 ns
+Valor total: 143
+Peso total: 236
+Tempo de execucao: 900 ns
 
